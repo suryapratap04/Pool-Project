@@ -486,6 +486,7 @@
 }
 .team_cards {
 	max-width: 1000px;
+	width: 100%;
 	flex-wrap: wrap;
 	gap: 20px;
 }
